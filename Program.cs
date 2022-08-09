@@ -17,6 +17,10 @@
                     PerfectNumber num = new PerfectNumber();
                     num.Perfect();
                     break;
+                case "ReverseNumber":
+                    ReverseNumber reverse = new ReverseNumber();
+                    reverse.Reverse();
+                    break;
             }
             
         }
