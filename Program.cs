@@ -21,7 +21,11 @@
                     ReverseNumber reverse = new ReverseNumber();
                     reverse.Reverse();
                     break;
-            }
+                case "PrimeNumbers":
+                    PrimeNumber prime = new PrimeNumber();
+                    prime.Prime();
+                    break;
+            } 
             
         }
     }
