@@ -29,6 +29,10 @@
                     CoupanNumber cn = new CoupanNumber();
                     cn.Coupan();
                     break;
+                default:
+                    StimulateStopwatch sw = new StimulateStopwatch();
+                    sw.StopWatch();
+                    break;
             } 
             
         }
