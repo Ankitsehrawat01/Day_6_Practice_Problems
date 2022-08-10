@@ -25,6 +25,10 @@
                     PrimeNumber prime = new PrimeNumber();
                     prime.Prime();
                     break;
+                case "CoupanNumber":
+                    CoupanNumber cn = new CoupanNumber();
+                    cn.Coupan();
+                    break;
             } 
             
         }
